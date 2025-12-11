@@ -7,5 +7,5 @@
 - ポインタ動作を確認
 
 ## Git COFLICT 体験
-２行目 ABCDEFG  
+２行目 ABC 
 ３行目 あいうえお  
