@@ -8,4 +8,4 @@
 
 ## Git COFLICT 体験
 ２行目 ABCDEFG  
-３行目 あいうえお  
+３行目 アアアアアア  
